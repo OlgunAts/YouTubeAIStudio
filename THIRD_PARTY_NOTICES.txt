@@ -1,0 +1,12 @@
+THIRD-PARTY NOTICES
+===================
+
+Bu dağıtım FFmpeg ve FFprobe ikili dosyalarını içerir. FFmpeg özgür yazılımdır.
+İlgili lisans ve kaynak kod bilgileri:
+
+- FFmpeg: https://ffmpeg.org/
+- Kaynak kod: https://ffmpeg.org/download.html
+- Windows build sağlayıcısı: https://www.gyan.dev/ffmpeg/builds/
+
+Python bağımlılıklarının lisansları kendi paket metadata ve proje sayfalarında bulunur:
+PySide6, google-genai, httpx, edge-tts, keyring, pydantic ve PyInstaller.
