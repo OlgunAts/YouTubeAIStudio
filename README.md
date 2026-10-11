@@ -2,6 +2,8 @@
 
 YouTube AI Studio, Windows 10/11 (64-bit) için taşınabilir bir video üretim uygulamasıdır.
 
+![YouTube AI Studio uygulama arayüzü](docs/app-screenshot.jpg)
+
 ## İndirme
 
 Çalışır taşınabilir paket için bu deponun **Releases** bölümünü kullanın. Paketi tamamen bir klasöre çıkarın ve `YouTubeAIStudio.exe` dosyasını çalıştırın.
